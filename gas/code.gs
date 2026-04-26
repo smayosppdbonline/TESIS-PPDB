@@ -32,7 +32,7 @@ const DEFAULT_SETTINGS = {
   alamat: "Jl. Mutiara No. 132, Galaydubu, Kec. Pulau-Pulau Aru, Kab. Kepulauan Aru, Maluku",
   telepon: "(+62) 82294253380",
   email: "dobosmayossudarso@gmail.com",
-  deskripsi: "Mencetak generasi penerus bangsa yang cerdas, berakhlak mulia, dan siap menghadapi tantangan masa depan dengan pendidikan berkualitas.",
+  deskripsi: "Meningkatkan kualitas ilmu pengetahuan, kualitas iman dan kualitas pembentukan karakter",
   statusPendaftaran: "Buka",
   formFields: JSON.stringify(DEFAULT_FORM_FIELDS)
 };
